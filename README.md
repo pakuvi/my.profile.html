@@ -1,1 +1,56 @@
-# my.profile.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>friendship</title>
+    
+    <link rel="stylesheet" href="styie/colour.My.profile.css">
+    <h1>friendship is not a word <br>
+        it is a grate thing in our life</h1> 
+</head>
+<body>
+    <p> I also have a many friend but some  of them are
+spacial for me like <strong> Chondon saha </strong>,
+<strong> Showan arianda</strong>,
+<strong>Dipto hazra</strong>
+</p>
+<h2>Chondon saha</h2>
+<img src="chondon (2).jpg">
+<h3>
+<p>This is <strong>Chondon</strong> he is the fat boy in our group.<br>
+    He eat lot food also he is a funny guy he 
+    Entertainment us all the time.</p></h3> 
+    <h2>showon arinda</h2>
+    <img  src="shwon.jpg">
+    </h3>
+    <h3>
+        <p>
+            This is<strong> showon</strong> he is great and intelligent boy in our.<br>
+            He help us all time.He
+            got chill mode all time.                                           
+        </p>                                
+    <h2>Dipto hazra</h2>
+    <img src="dipto.jpg">    
+<h3>
+    <p>
+        This is <strong>Dipto</strong>.he is stupid boy.<br>
+        chondon and me troil him many time 
+        and got full. but he is very humble 
+    </p>
+    <p>
+        <h2>This is four of us  </h2>
+    </p>
+    <img src="group.jpg">
+</h3>
+<br>
+<a href="https://www.facebook.com/profile.php?id=100081205223452&mibextid=ZbWKwL">see about chondon saha</a>
+<br>
+ <a href="https://www.facebook.com/shaon.arinda.7?mibextid=ZbWKwL"  >see about showon arianda</a>
+ <br>
+ <a href="https://www.facebook.com/profile.php?id=100083874860032&mibextid=ZbWKwL" >see about Dipto hazra</a>
+ <br>
+ <a href="https://www.facebook.com/dipto.hazra.75?mibextid=ZbWKwL" >see about me</a>
+ 
+</html>
